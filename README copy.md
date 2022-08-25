@@ -1,9 +1,0 @@
-# Paytm Landing Page
-
-### This is a static page built using only HTML and Tailwind css CDN.
-
-### This is a preview of the website.
-
-![Paytm Landing Page](./thumbnail.png)
-
-### [Click here](https://paytm-landing-page-melonlobo.vercel.app) to see the deployed website.
